@@ -25,28 +25,16 @@ export class AppService {
       result = result.filter((item) => item.year === +year);
     }
 
-    if (sortBy) {
-      result = result.sort((a, b) => {
-        const compare = (aProp: string, bProp: string) => b[bProp] - a[aProp];
+    result = result.sort((a, b) => {
+      const compare = (aProp: string, bProp: string) => b[bProp] - a[aProp];
 
-        if (sortBy) {
-          if (sortBy === SortBy.popularOverAll) {
-            return compare('overMonth', 'overMonth');
-          }
+      // Assume last month is july
+      if (sortBy === SortBy.popularLastMonth) {
+        return compare('july', 'july');
+      }
 
-          // Assume last month is july
-          if (sortBy === SortBy.popularLastMonth) {
-            return compare('july', 'july');
-          }
-
-          return compare(sortBy, sortBy);
-        }
-
-        return compare('overMonth', 'overMonth');
-      });
-    } else {
-      result = result.sort((a, b) => b.overMonth - a.overMonth);
-    }
+      return compare('overMonth', 'overMonth');
+    });
 
     return result || [];
   }

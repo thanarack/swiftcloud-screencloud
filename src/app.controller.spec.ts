@@ -2,6 +2,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { DatabaseService } from './database.service';
+import { SortBy } from './dto/search';
 
 describe('AppController', () => {
   let appController: AppController;
@@ -25,6 +26,7 @@ describe('AppController', () => {
     it('should return song list with q search and response is only 1 item', async () => {
       const result = await appController.search({
         q: '22',
+        sortBy: SortBy.popularOverAll,
       });
       expect(result.data.length).toBe(1);
     });

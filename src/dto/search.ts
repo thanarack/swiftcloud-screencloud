@@ -2,9 +2,6 @@ import { ApiProperty } from '@nestjs/swagger';
 import { IsEnum, IsOptional } from 'class-validator';
 
 export enum SortBy {
-  year = 'year',
-  album = 'album',
-  song = 'song',
   popularLastMonth = 'popularLastMonth',
   popularOverAll = 'popularOverAll',
 }
@@ -31,8 +28,9 @@ export class SearchSongDto {
     description: 'The year of the song',
     required: false,
     enum: SortBy,
+    default: SortBy.popularOverAll,
   })
   @IsEnum(SortBy)
   @IsOptional()
-  sortBy?: string;
+  sortBy?: SortBy = SortBy.popularOverAll;
 }
