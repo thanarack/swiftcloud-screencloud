@@ -34,7 +34,7 @@ export class AppService {
             return compare('overMonth', 'overMonth');
           }
 
-          // Assume popularLastMonth is july
+          // Assume last month is july
           if (sortBy === SortBy.popularLastMonth) {
             return compare('july', 'july');
           }
