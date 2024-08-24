@@ -1,0 +1,1724 @@
+{
+  "data": [
+    {
+      "song": "The 1",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nAaron Dessner",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 68,
+      "july": 6,
+      "august": 61
+    },
+    {
+      "song": "22",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "Red",
+      "year": 2012,
+      "june": 27,
+      "july": 30,
+      "august": 32
+    },
+    {
+      "song": "Afterglow",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLouis Bell\nFrank Dukes",
+      "album": "Lover",
+      "year": 2019,
+      "june": 90,
+      "july": 17,
+      "august": 87
+    },
+    {
+      "song": "All Too Well",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose",
+      "album": "Red",
+      "year": 2012,
+      "june": 71,
+      "july": 94,
+      "august": 14
+    },
+    {
+      "song": "All You Had to Do Was Stay",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin",
+      "album": "1989",
+      "year": 2014,
+      "june": 78,
+      "july": 78,
+      "august": 97
+    },
+    {
+      "song": "American Girl (cover)",
+      "artist": "Taylor Swift",
+      "writer": "Tom Petty",
+      "album": "None[a]",
+      "year": 2009,
+      "june": 109,
+      "july": 2,
+      "august": 79
+    },
+    {
+      "song": "The Archer",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Lover",
+      "year": 2019,
+      "june": 23,
+      "july": 3,
+      "august": 30
+    },
+    {
+      "song": "August",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 10,
+      "july": 40,
+      "august": 26
+    },
+    {
+      "song": "Babe",
+      "artist": "Sugarland\nfeaturing Taylor Swift",
+      "writer": "Taylor Swift\nPatrick Monahan",
+      "album": "Bigger",
+      "year": 2018,
+      "june": 19,
+      "july": 22,
+      "august": 7
+    },
+    {
+      "song": "Back to December",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 50,
+      "july": 38,
+      "august": 63
+    },
+    {
+      "song": "Bad Blood (album version)",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "1989",
+      "year": 2014,
+      "june": 10,
+      "july": 75,
+      "august": 29
+    },
+    {
+      "song": "Bad Blood (remixed single version)",
+      "artist": "Taylor Swift\nfeaturing Kendrick Lamar",
+      "writer": "Taylor Swift\nMax Martin\nShellback\nKendrick Lamar",
+      "album": "None[b]",
+      "year": 2015,
+      "june": 22,
+      "july": 71,
+      "august": 50
+    },
+    {
+      "song": "Beautiful Eyes",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Beautiful Eyes",
+      "year": 2008,
+      "june": 17,
+      "july": 90,
+      "august": 105
+    },
+    {
+      "song": "Beautiful Ghosts",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nAndrew Lloyd Webber",
+      "album": "Cats: Highlights from the Motion Picture Soundtrack",
+      "year": 2019,
+      "june": 100,
+      "july": 106,
+      "august": 100
+    },
+    {
+      "song": "Begin Again",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Red",
+      "year": 2012,
+      "june": 17,
+      "july": 88,
+      "august": 56
+    },
+    {
+      "song": "The Best Day",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Fearless",
+      "year": 2008,
+      "june": 68,
+      "july": 78,
+      "august": 110
+    },
+    {
+      "song": "Bette Davis Eyes (live cover)",
+      "artist": "Taylor Swift",
+      "writer": "Donna Weiss\nJackie DeShannon",
+      "album": "Speak Now World Tour – Live",
+      "year": 2011,
+      "june": 52,
+      "july": 56,
+      "august": 79
+    },
+    {
+      "song": "Better than Revenge",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 5,
+      "july": 110,
+      "august": 71
+    },
+    {
+      "song": "Betty",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nWilliam Bowery",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 73,
+      "july": 54,
+      "august": 78
+    },
+    {
+      "song": "Big Star (Live)",
+      "artist": "Kenny Chesney\nand Taylor Swift",
+      "writer": "Stephony Smith",
+      "album": "Live in No Shoes Nation",
+      "year": 2017,
+      "june": 62,
+      "july": 24,
+      "august": 21
+    },
+    {
+      "song": "Blank Space",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "1989",
+      "year": 2014,
+      "june": 37,
+      "july": 66,
+      "august": 94
+    },
+    {
+      "song": "Both of Us",
+      "artist": "B.o.B\nfeaturing Taylor Swift",
+      "writer": "Bobby Ray Simmons, Jr.\nTaylor Swift\nAmmar Malik\nLukasz Gottwald\nHenry Walter",
+      "album": "Strange Clouds",
+      "year": 2012,
+      "june": 104,
+      "july": 95,
+      "august": 75
+    },
+    {
+      "song": "Breathe",
+      "artist": "Taylor Swift\nfeaturing Colbie Caillat",
+      "writer": "Taylor Swift\nColbie Caillat",
+      "album": "Fearless",
+      "year": 2008,
+      "june": 64,
+      "july": 67,
+      "august": 104
+    },
+    {
+      "song": "Breathless (cover)",
+      "artist": "Taylor Swift",
+      "writer": "Kevin Griffin",
+      "album": "Hope for Haiti Now",
+      "year": 2010,
+      "june": 68,
+      "july": 7,
+      "august": 37
+    },
+    {
+      "song": "Call It What You Want",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 87,
+      "july": 62,
+      "august": 104
+    },
+    {
+      "song": "Cardigan",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nAaron Dessner",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 84,
+      "july": 64,
+      "august": 59
+    },
+    {
+      "song": "Change",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "AT&T Team USA Soundtrack and Fearless",
+      "year": 2008,
+      "june": 34,
+      "july": 68,
+      "august": 63
+    },
+    {
+      "song": "Christmas Must Be Something More",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Sounds of the Season",
+      "year": 2007,
+      "june": 49,
+      "july": 11,
+      "august": 34
+    },
+    {
+      "song": "Christmas Tree Farm",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "None",
+      "year": 2019,
+      "june": 104,
+      "july": 100,
+      "august": 69
+    },
+    {
+      "song": "Christmases When You Were Mine",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose\nNathan Chapman",
+      "album": "Sounds of the Season",
+      "year": 2007,
+      "june": 80,
+      "july": 110,
+      "august": 43
+    },
+    {
+      "song": "Clean",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nImogen Heap",
+      "album": "1989",
+      "year": 2014,
+      "june": 61,
+      "july": 57,
+      "august": 57
+    },
+    {
+      "song": "Cold as You",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose",
+      "album": "Taylor Swift",
+      "year": 2006,
+      "june": 84,
+      "july": 102,
+      "august": 108
+    },
+    {
+      "song": "Come Back... Be Here",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nDan Wilson",
+      "album": "Red\n(Deluxe edition)",
+      "year": 2012,
+      "june": 62,
+      "july": 59,
+      "august": 27
+    },
+    {
+      "song": "Come in with the Rain",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose",
+      "album": "Fearless\n(Platinum edition)",
+      "year": 2009,
+      "june": 21,
+      "july": 93,
+      "august": 31
+    },
+    {
+      "song": "Cornelia Street",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Lover",
+      "year": 2019,
+      "june": 27,
+      "july": 68,
+      "august": 101
+    },
+    {
+      "song": "Crazier",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nRobert Ellis Orrall",
+      "album": "Hannah Montana: The Movie",
+      "year": 2009,
+      "june": 96,
+      "july": 90,
+      "august": 72
+    },
+    {
+      "song": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff\nSt. Vincent",
+      "album": "Lover",
+      "year": 2019,
+      "june": 18,
+      "july": 44,
+      "august": 0
+    },
+    {
+      "song": "Dancing with Our Hands Tied",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback\nOscar Holter",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 55,
+      "july": 38,
+      "august": 80
+    },
+    {
+      "song": "Daylight",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Lover",
+      "year": 2019,
+      "june": 48,
+      "july": 73,
+      "august": 23
+    },
+    {
+      "song": "Death by a Thousand Cuts",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Lover",
+      "year": 2019,
+      "june": 59,
+      "july": 65,
+      "august": 45
+    },
+    {
+      "song": "Dear John",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 66,
+      "july": 101,
+      "august": 35
+    },
+    {
+      "song": "Delicate",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 12,
+      "july": 62,
+      "august": 93
+    },
+    {
+      "song": "Don't Blame Me",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 91,
+      "july": 0,
+      "august": 94
+    },
+    {
+      "song": "Dress",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 25,
+      "july": 13,
+      "august": 83
+    },
+    {
+      "song": "Drops of Jupiter (live cover)",
+      "artist": "Taylor Swift",
+      "writer": "Charlie Colin\nRob Hotchkiss\nJimmy Stafford\nPat Monahan\nScott Underwood",
+      "album": "Speak Now World Tour – Live",
+      "year": 2011,
+      "june": 86,
+      "july": 64,
+      "august": 83
+    },
+    {
+      "song": "Enchanted",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 26,
+      "july": 82,
+      "august": 26
+    },
+    {
+      "song": "End Game",
+      "artist": "Taylor Swift\nfeaturing Ed Sheeran and Future",
+      "writer": "Taylor Swift\nMax Martin\nShellback\nEd Sheeran\nNayvadius Wilburn",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 0,
+      "july": 8,
+      "august": 89
+    },
+    {
+      "song": "Epiphany",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nAaron Dessner",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 44,
+      "july": 110,
+      "august": 29
+    },
+    {
+      "song": "Everything Has Changed",
+      "artist": "Taylor Swift\nfeaturing Ed Sheeran",
+      "writer": "Taylor Swift\nEd Sheeran",
+      "album": "Red",
+      "year": 2012,
+      "june": 79,
+      "july": 1,
+      "august": 95
+    },
+    {
+      "song": "Exile",
+      "artist": "Taylor Swift\nfeaturing Bon Iver",
+      "writer": "Taylor Swift\nJustin Vernon\nWilliam Bowery",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 6,
+      "july": 87,
+      "august": 72
+    },
+    {
+      "song": "Eyes Open",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "The Hunger Games",
+      "year": 2012,
+      "june": 50,
+      "july": 9,
+      "august": 50
+    },
+    {
+      "song": "False God",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Lover",
+      "year": 2019,
+      "june": 16,
+      "july": 31,
+      "august": 21
+    },
+    {
+      "song": "Fearless",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose\nHillary Lindsey",
+      "album": "Fearless",
+      "year": 2008,
+      "june": 86,
+      "july": 105,
+      "august": 71
+    },
+    {
+      "song": "Fifteen",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Fearless",
+      "year": 2008,
+      "june": 64,
+      "july": 76,
+      "august": 99
+    },
+    {
+      "song": "Forever & Always",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Fearless",
+      "year": 2008,
+      "june": 5,
+      "july": 73,
+      "august": 52
+    },
+    {
+      "song": "Forever & Always (piano version)",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Fearless\n(Platinum edition)",
+      "year": 2009,
+      "june": 69,
+      "july": 10,
+      "august": 33
+    },
+    {
+      "song": "Getaway Car",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 91,
+      "july": 101,
+      "august": 84
+    },
+    {
+      "song": "Girl at Home",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Red\n(Deluxe edition)",
+      "year": 2012,
+      "june": 64,
+      "july": 12,
+      "august": 45
+    },
+    {
+      "song": "Gorgeous",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 19,
+      "july": 43,
+      "august": 63
+    },
+    {
+      "song": "Half of My Heart (album version)",
+      "artist": "John Mayer\nfeaturing Taylor Swift",
+      "writer": "John Mayer",
+      "album": "Battle Studies",
+      "year": 2009,
+      "june": 20,
+      "july": 102,
+      "august": 82
+    },
+    {
+      "song": "Haunted",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 29,
+      "july": 85,
+      "august": 101
+    },
+    {
+      "song": "Hey Stephen",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Fearless",
+      "year": 2008,
+      "june": 41,
+      "july": 31,
+      "august": 109
+    },
+    {
+      "song": "Highway Don't Care",
+      "artist": "Tim McGraw and Taylor Swift\nfeaturing Keith Urban",
+      "writer": "Mark Irwin\nJosh Kear\nBrad Warren\nBrett Warren",
+      "album": "Two Lanes of Freedom",
+      "year": 2013,
+      "june": 62,
+      "july": 102,
+      "august": 21
+    },
+    {
+      "song": "Hoax",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nAaron Dessner",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 34,
+      "july": 16,
+      "august": 19
+    },
+    {
+      "song": "Hold On (live cover)",
+      "artist": "Jack Ingram\nfeaturing Taylor Swift",
+      "writer": "Blu Sanders",
+      "album": "Rhapsody Originals[c]",
+      "year": 2007,
+      "june": 91,
+      "july": 109,
+      "august": 28
+    },
+    {
+      "song": "Holy Ground",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Red",
+      "year": 2012,
+      "june": 43,
+      "july": 38,
+      "august": 76
+    },
+    {
+      "song": "How You Get the Girl",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "1989",
+      "year": 2014,
+      "june": 59,
+      "july": 7,
+      "august": 75
+    },
+    {
+      "song": "I Almost Do",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Red",
+      "year": 2012,
+      "june": 46,
+      "july": 42,
+      "august": 52
+    },
+    {
+      "song": "I Did Something Bad",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 66,
+      "july": 16,
+      "august": 4
+    },
+    {
+      "song": "I Don't Wanna Live Forever",
+      "artist": "Zayn and Taylor Swift",
+      "writer": "Taylor Swift\nSam Dew\nJack Antonoff",
+      "album": "Fifty Shades Darker: Original Motion Picture Soundtrack",
+      "year": 2016,
+      "june": 103,
+      "july": 101,
+      "august": 54
+    },
+    {
+      "song": "I Forgot That You Existed",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLouis Bell\nFrank Dukes",
+      "album": "Lover",
+      "year": 2019,
+      "june": 92,
+      "july": 61,
+      "august": 73
+    },
+    {
+      "song": "I Heart ?",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Beautiful Eyes",
+      "year": 2008,
+      "june": 70,
+      "july": 44,
+      "august": 61
+    },
+    {
+      "song": "I Knew You Were Trouble",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "Red",
+      "year": 2012,
+      "june": 12,
+      "july": 23,
+      "august": 36
+    },
+    {
+      "song": "I Know Places",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nRyan Tedder",
+      "album": "1989",
+      "year": 2014,
+      "june": 21,
+      "july": 81,
+      "august": 59
+    },
+    {
+      "song": "I Think He Knows",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Lover",
+      "year": 2019,
+      "june": 93,
+      "july": 74,
+      "august": 68
+    },
+    {
+      "song": "I Want You Back (live cover)",
+      "artist": "Taylor Swift",
+      "writer": "Freddie Perren\nDeke Richards\nBerry Gordy, Jr.\nAlphonso Mizell",
+      "album": "Speak Now World Tour – Live",
+      "year": 2011,
+      "june": 84,
+      "july": 69,
+      "august": 42
+    },
+    {
+      "song": "I Wish You Would",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "1989",
+      "year": 2014,
+      "june": 14,
+      "july": 18,
+      "august": 110
+    },
+    {
+      "song": "If This Was a Movie",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMartin Johnson",
+      "album": "Speak Now\n(Deluxe edition)",
+      "year": 2010,
+      "june": 15,
+      "july": 62,
+      "august": 92
+    },
+    {
+      "song": "Illicit Affairs",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 12,
+      "july": 4,
+      "august": 34
+    },
+    {
+      "song": "Innocent",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 20,
+      "july": 94,
+      "august": 108
+    },
+    {
+      "song": "Invisible",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nRobert Ellis Orrall",
+      "album": "Taylor Swift\n(Deluxe edition)",
+      "year": 2007,
+      "june": 46,
+      "july": 80,
+      "august": 62
+    },
+    {
+      "song": "Invisible String",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nAaron Dessner",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 7,
+      "july": 24,
+      "august": 3
+    },
+    {
+      "song": "It's Nice to Have a Friend",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLouis Bell\nFrank Dukes",
+      "album": "Lover",
+      "year": 2019,
+      "june": 96,
+      "july": 42,
+      "august": 91
+    },
+    {
+      "song": "I'd Lie",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "None",
+      "year": 2006,
+      "june": 37,
+      "july": 16,
+      "august": 38
+    },
+    {
+      "song": "I'm Only Me When I'm with You",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nRobert Ellis Orrall\nAngelo Petraglia",
+      "album": "Taylor Swift\n(Deluxe edition)",
+      "year": 2007,
+      "june": 0,
+      "july": 43,
+      "august": 64
+    },
+    {
+      "song": "Jump Then Fall",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Fearless\n(Platinum edition) and Valentine's Day: Soundtrack",
+      "year": 2009,
+      "june": 21,
+      "july": 7,
+      "august": 55
+    },
+    {
+      "song": "King of My Heart",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 59,
+      "july": 71,
+      "august": 70
+    },
+    {
+      "song": "The Lakes",
+      "artist": "Taylor Swift",
+      "writer": "TBA",
+      "album": "Folklore\n(Physical Edition)",
+      "year": 2020,
+      "june": 0,
+      "july": 20,
+      "august": 70
+    },
+    {
+      "song": "Last Christmas (cover)",
+      "artist": "Taylor Swift",
+      "writer": "George Michael",
+      "album": "Sounds of the Season",
+      "year": 2007,
+      "june": 29,
+      "july": 61,
+      "august": 110
+    },
+    {
+      "song": "The Last Great American Dynasty",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nAaron Dessner",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 74,
+      "july": 79,
+      "august": 55
+    },
+    {
+      "song": "Last Kiss",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 64,
+      "july": 60,
+      "august": 62
+    },
+    {
+      "song": "The Last Time",
+      "artist": "Taylor Swift\nfeaturing Gary Lightbody of Snow Patrol",
+      "writer": "Taylor Swift\nGary Lightbody\nJacknife Lee",
+      "album": "Red",
+      "year": 2012,
+      "june": 22,
+      "july": 48,
+      "august": 47
+    },
+    {
+      "song": "Long Live",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 90,
+      "july": 2,
+      "august": 38
+    },
+    {
+      "song": "Long Live (single version)",
+      "artist": "Taylor Swift\nfeaturing Paula Fernandes",
+      "writer": "Taylor Swift\nPaula Fernandes",
+      "album": "Speak Now World Tour – Live",
+      "year": 2012,
+      "june": 63,
+      "july": 72,
+      "august": 108
+    },
+    {
+      "song": "London Boy",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff\nCautious Clay\nSounwave",
+      "album": "Lover",
+      "year": 2019,
+      "june": 58,
+      "july": 71,
+      "august": 88
+    },
+    {
+      "song": "Look What You Made Me Do",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff\nFred Fairbrass\nRichard Fairbrass\nRob Manzoli[d]",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 89,
+      "july": 101,
+      "august": 3
+    },
+    {
+      "song": "Love Story",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Fearless",
+      "year": 2008,
+      "june": 33,
+      "july": 41,
+      "august": 94
+    },
+    {
+      "song": "Lover",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Lover",
+      "year": 2019,
+      "june": 57,
+      "july": 34,
+      "august": 109
+    },
+    {
+      "song": "Lover (Remix)",
+      "artist": "Taylor Swift\nfeaturing Shawn Mendes",
+      "writer": "Taylor Swift\nShawn Mendes\nScott Harris",
+      "album": "None[e]",
+      "year": 2019,
+      "june": 59,
+      "july": 110,
+      "august": 10
+    },
+    {
+      "song": "The Lucky One",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Red",
+      "year": 2012,
+      "june": 61,
+      "july": 88,
+      "august": 88
+    },
+    {
+      "song": "Macavity (cover)",
+      "artist": "Taylor Swift\nand Idris Elba",
+      "writer": "Andrew Lloyd Webber\nT. S. Eliot",
+      "album": "Cats: Highlights from the Motion Picture Soundtrack",
+      "year": 2019,
+      "june": 10,
+      "july": 36,
+      "august": 14
+    },
+    {
+      "song": "Mad Woman",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nAaron Dessner",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 38,
+      "july": 40,
+      "august": 106
+    },
+    {
+      "song": "The Man",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJoel Little",
+      "album": "Lover",
+      "year": 2019,
+      "june": 103,
+      "july": 69,
+      "august": 39
+    },
+    {
+      "song": "Mary's Song (Oh My My My)",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose\nBrian Maher",
+      "album": "Taylor Swift",
+      "year": 2006,
+      "june": 23,
+      "july": 60,
+      "august": 4
+    },
+    {
+      "song": "Me!",
+      "artist": "Taylor Swift\nfeaturing Brendon Urie of Panic! at the Disco",
+      "writer": "Taylor Swift\nJoel Little\nBrendon Urie",
+      "album": "Lover",
+      "year": 2019,
+      "june": 34,
+      "july": 72,
+      "august": 29
+    },
+    {
+      "song": "Mean",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 26,
+      "july": 84,
+      "august": 107
+    },
+    {
+      "song": "Mine",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 97,
+      "july": 73,
+      "august": 92
+    },
+    {
+      "song": "Mirrorball",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 94,
+      "july": 92,
+      "august": 91
+    },
+    {
+      "song": "Miss Americana & the Heartbreak Prince",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJoel Little",
+      "album": "Lover",
+      "year": 2019,
+      "june": 109,
+      "july": 45,
+      "august": 47
+    },
+    {
+      "song": "The Moment I Knew",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Red\n(Deluxe edition)",
+      "year": 2012,
+      "june": 32,
+      "july": 50,
+      "august": 106
+    },
+    {
+      "song": "My Tears Ricochet",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 54,
+      "july": 13,
+      "august": 54
+    },
+    {
+      "song": "Never Grow Up",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 29,
+      "july": 13,
+      "august": 110
+    },
+    {
+      "song": "New Romantics",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "1989\n(Deluxe edition)",
+      "year": 2014,
+      "june": 71,
+      "july": 82,
+      "august": 12
+    },
+    {
+      "song": "New Year's Day",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 54,
+      "july": 83,
+      "august": 67
+    },
+    {
+      "song": "Only the Young",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJoel Little",
+      "album": "None",
+      "year": 2020,
+      "june": 26,
+      "july": 43,
+      "august": 107
+    },
+    {
+      "song": "The Other Side of the Door",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Fearless\n(Platinum edition)",
+      "year": 2009,
+      "june": 74,
+      "july": 81,
+      "august": 15
+    },
+    {
+      "song": "Our Song",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Taylor Swift",
+      "year": 2006,
+      "june": 57,
+      "july": 27,
+      "august": 106
+    },
+    {
+      "song": "Ours",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now\n(Deluxe edition)",
+      "year": 2010,
+      "june": 1,
+      "july": 93,
+      "august": 55
+    },
+    {
+      "song": "Out of the Woods",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "1989",
+      "year": 2014,
+      "june": 51,
+      "july": 7,
+      "august": 18
+    },
+    {
+      "song": "The Outside",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Taylor Swift",
+      "year": 2006,
+      "june": 41,
+      "july": 47,
+      "august": 81
+    },
+    {
+      "song": "Paper Rings",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Lover",
+      "year": 2019,
+      "june": 31,
+      "july": 55,
+      "august": 82
+    },
+    {
+      "song": "Peace",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nAaron Dessner",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 104,
+      "july": 94,
+      "august": 99
+    },
+    {
+      "song": "A Perfectly Good Heart",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nBrett James\nTroy Verges",
+      "album": "Taylor Swift\n(Deluxe edition)",
+      "year": 2007,
+      "june": 100,
+      "july": 102,
+      "august": 16
+    },
+    {
+      "song": "Picture to Burn",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose",
+      "album": "Taylor Swift",
+      "year": 2006,
+      "june": 32,
+      "july": 16,
+      "august": 77
+    },
+    {
+      "song": "A Place in This World",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nRobert Ellis Orrall\nAngelo Petraglia",
+      "album": "Taylor Swift",
+      "year": 2006,
+      "june": 39,
+      "july": 56,
+      "august": 25
+    },
+    {
+      "song": "...Ready for It?",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback\nAli Payami",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 27,
+      "july": 0,
+      "august": 77
+    },
+    {
+      "song": "Red",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Red",
+      "year": 2012,
+      "june": 58,
+      "july": 81,
+      "august": 2
+    },
+    {
+      "song": "Ronan",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMaya Thompson",
+      "album": "None",
+      "year": 2012,
+      "june": 60,
+      "july": 109,
+      "august": 77
+    },
+    {
+      "song": "Sad Beautiful Tragic",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Red",
+      "year": 2012,
+      "june": 2,
+      "july": 81,
+      "august": 35
+    },
+    {
+      "song": "Safe & Sound",
+      "artist": "Taylor Swift\nfeaturing The Civil Wars",
+      "writer": "Taylor Swift\nJoy Williams\nJohn Paul White\nT-Bone Burnett",
+      "album": "The Hunger Games",
+      "year": 2011,
+      "june": 62,
+      "july": 15,
+      "august": 59
+    },
+    {
+      "song": "Santa Baby (cover)",
+      "artist": "Taylor Swift",
+      "writer": "Joan Javits\nPhilip Springer\nTony Springer",
+      "album": "Sounds of the Season",
+      "year": 2007,
+      "june": 110,
+      "july": 52,
+      "august": 0
+    },
+    {
+      "song": "September (cover)",
+      "artist": "Taylor Swift",
+      "writer": "Maurice White\nAl McKay\nAllee Willis",
+      "album": "Spotify Singles",
+      "year": 2018,
+      "june": 20,
+      "july": 44,
+      "august": 3
+    },
+    {
+      "song": "Seven",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nAaron Dessner",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 106,
+      "july": 92,
+      "august": 99
+    },
+    {
+      "song": "Shake It Off",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "1989",
+      "year": 2014,
+      "june": 19,
+      "july": 11,
+      "august": 95
+    },
+    {
+      "song": "Should've Said No",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Taylor Swift",
+      "year": 2006,
+      "june": 25,
+      "july": 7,
+      "august": 100
+    },
+    {
+      "song": "Silent Night (cover)",
+      "artist": "Taylor Swift",
+      "writer": "Josef Mohr\nFranz Xaver Gruber",
+      "album": "Sounds of the Season",
+      "year": 2007,
+      "june": 57,
+      "july": 32,
+      "august": 63
+    },
+    {
+      "song": "So It Goes...",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback\nOscar Görres",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 22,
+      "july": 52,
+      "august": 89
+    },
+    {
+      "song": "Soon You'll Get Better",
+      "artist": "Taylor Swift\nfeaturing Dixie Chicks",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Lover",
+      "year": 2019,
+      "june": 110,
+      "july": 78,
+      "august": 45
+    },
+    {
+      "song": "Sparks Fly",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 64,
+      "july": 52,
+      "august": 96
+    },
+    {
+      "song": "Speak Now",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 98,
+      "july": 21,
+      "august": 47
+    },
+    {
+      "song": "Starlight",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Red",
+      "year": 2012,
+      "june": 48,
+      "july": 35,
+      "august": 26
+    },
+    {
+      "song": "State of Grace",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Red",
+      "year": 2012,
+      "june": 4,
+      "july": 17,
+      "august": 51
+    },
+    {
+      "song": "Stay Beautiful",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose",
+      "album": "Taylor Swift",
+      "year": 2006,
+      "june": 70,
+      "july": 81,
+      "august": 52
+    },
+    {
+      "song": "Stay Stay Stay",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Red",
+      "year": 2012,
+      "june": 13,
+      "july": 11,
+      "august": 11
+    },
+    {
+      "song": "The Story of Us",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now",
+      "year": 2010,
+      "june": 6,
+      "july": 90,
+      "august": 1
+    },
+    {
+      "song": "Style",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback\nAli Payami",
+      "album": "1989",
+      "year": 2014,
+      "june": 103,
+      "july": 94,
+      "august": 110
+    },
+    {
+      "song": "Superman",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Speak Now\n(Deluxe edition)",
+      "year": 2010,
+      "june": 9,
+      "july": 29,
+      "august": 86
+    },
+    {
+      "song": "Superstar",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Fearless\n(Platinum edition)",
+      "year": 2009,
+      "june": 14,
+      "july": 24,
+      "august": 69
+    },
+    {
+      "song": "Sweeter than Fiction",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "One Chance Soundtrack",
+      "year": 2013,
+      "june": 77,
+      "july": 62,
+      "august": 14
+    },
+    {
+      "song": "Teardrops on My Guitar",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose",
+      "album": "Taylor Swift",
+      "year": 2006,
+      "june": 90,
+      "july": 57,
+      "august": 63
+    },
+    {
+      "song": "Tell Me Why",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose",
+      "album": "Fearless",
+      "year": 2008,
+      "june": 105,
+      "july": 32,
+      "august": 18
+    },
+    {
+      "song": "This Is Me Trying",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Folklore",
+      "year": 2020,
+      "june": 10,
+      "july": 79,
+      "august": 107
+    },
+    {
+      "song": "This Is Why We Can't Have Nice Things",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "Reputation",
+      "year": 2017,
+      "june": 92,
+      "july": 97,
+      "august": 19
+    },
+    {
+      "song": "This Love",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "1989",
+      "year": 2014,
+      "june": 68,
+      "july": 44,
+      "august": 6
+    },
+    {
+      "song": "Tied Together with a Smile",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose",
+      "album": "Taylor Swift",
+      "year": 2006,
+      "june": 14,
+      "july": 97,
+      "august": 74
+    },
+    {
+      "song": "Tim McGraw",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose",
+      "album": "Taylor Swift",
+      "year": 2006,
+      "june": 2,
+      "july": 24,
+      "august": 16
+    },
+    {
+      "song": "Today Was a Fairytale",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Valentine's Day[f]",
+      "year": 2010,
+      "june": 61,
+      "july": 46,
+      "august": 22
+    },
+    {
+      "song": "Treacherous",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nDan Wilson",
+      "album": "Red",
+      "year": 2012,
+      "june": 47,
+      "july": 0,
+      "august": 57
+    },
+    {
+      "song": "Two Is Better Than One",
+      "artist": "Boys Like Girls\nfeaturing Taylor Swift",
+      "writer": "Martin Johnson\nTaylor Swift",
+      "album": "Love Drunk",
+      "year": 2009,
+      "june": 22,
+      "july": 16,
+      "august": 52
+    },
+    {
+      "song": "Umbrella (live cover)",
+      "artist": "Taylor Swift",
+      "writer": "Christopher Tricky Stewart\nTerius Dream Nash\nThaddis Harrell\nShawn Carter",
+      "album": "iTunes Live from SoHo",
+      "year": 2008,
+      "june": 0,
+      "july": 58,
+      "august": 101
+    },
+    {
+      "song": "Untouchable",
+      "artist": "Taylor Swift",
+      "writer": "Cary Barlowe\nNathan Barlowe\nTommy Lee James\nTaylor Swift[g]",
+      "album": "Fearless\n(Platinum edition)",
+      "year": 2009,
+      "june": 100,
+      "july": 16,
+      "august": 102
+    },
+    {
+      "song": "The Way I Loved You",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJohn Rich",
+      "album": "Fearless",
+      "year": 2008,
+      "june": 107,
+      "july": 69,
+      "august": 53
+    },
+    {
+      "song": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "Red",
+      "year": 2012,
+      "june": 99,
+      "july": 17,
+      "august": 46
+    },
+    {
+      "song": "Welcome to New York",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nRyan Tedder",
+      "album": "1989",
+      "year": 2014,
+      "june": 78,
+      "july": 36,
+      "august": 64
+    },
+    {
+      "song": "White Christmas (cover)",
+      "artist": "Taylor Swift",
+      "writer": "Irving Berlin",
+      "album": "Sounds of the Season",
+      "year": 2007,
+      "june": 93,
+      "july": 41,
+      "august": 17
+    },
+    {
+      "song": "White Horse",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose",
+      "album": "Fearless",
+      "year": 2008,
+      "june": 100,
+      "july": 51,
+      "august": 64
+    },
+    {
+      "song": "Wildest Dreams",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "1989",
+      "year": 2014,
+      "june": 42,
+      "july": 29,
+      "august": 38
+    },
+    {
+      "song": "Wonderland",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nMax Martin\nShellback",
+      "album": "1989\n(Deluxe edition)",
+      "year": 2014,
+      "june": 19,
+      "july": 30,
+      "august": 59
+    },
+    {
+      "song": "You Are in Love",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJack Antonoff",
+      "album": "1989\n(Deluxe edition)",
+      "year": 2014,
+      "june": 78,
+      "july": 29,
+      "august": 82
+    },
+    {
+      "song": "You Belong with Me",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nLiz Rose",
+      "album": "Fearless",
+      "year": 2008,
+      "june": 101,
+      "july": 69,
+      "august": 6
+    },
+    {
+      "song": "You Need to Calm Down",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift\nJoel Little",
+      "album": "Lover",
+      "year": 2019,
+      "june": 77,
+      "july": 104,
+      "august": 5
+    },
+    {
+      "song": "You're Not Sorry",
+      "artist": "Taylor Swift",
+      "writer": "Taylor Swift",
+      "album": "Fearless",
+      "year": 2008,
+      "june": 88,
+      "july": 107,
+      "august": 30
+    }
+  ]
+}
