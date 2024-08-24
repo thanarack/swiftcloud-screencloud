@@ -30,6 +30,7 @@ export class AppService {
 
       // Assume last month is july
       if (sortBy === SortBy.popularLastMonth) {
+        // logic to get last month here in real project.
         return compare('july', 'july');
       }
 
