@@ -1,50 +1,51 @@
 import { Injectable } from '@nestjs/common';
 import { DatabaseService } from './database.service';
-import { SearchSongDto } from './dto/search';
+import { SearchSongDto, SortBy } from './dto/search';
 import { SongDto } from './dto/song';
 
 @Injectable()
 export class AppService {
   constructor(private readonly databaseService: DatabaseService) {}
 
-  async getSearch(body: SearchSongDto): Promise<SongDto[]> {
+  async getSearch({ q, year, sortBy }: SearchSongDto): Promise<SongDto[]> {
     const data = await this.databaseService.db();
 
     let result = data;
 
-    if (body.q) {
-      result = result.filter((item) => {
-        return (
-          new RegExp(body.q, 'ig').test(item.song) ||
-          new RegExp(body.q, 'ig').test(item.album) ||
-          new RegExp(body.q, 'ig').test(item.artist)
-        );
-      });
+    if (q) {
+      result = result.filter(
+        (item) =>
+          new RegExp(q, 'ig').test(item.song) ||
+          new RegExp(q, 'ig').test(item.album) ||
+          new RegExp(q, 'ig').test(item.artist),
+      );
     }
 
-    if (body.year) {
-      result = result.filter((item) => {
-        return item.year === +body.year;
-      });
+    if (year) {
+      result = result.filter((item) => item.year === +year);
     }
 
-    if (body.month) {
+    if (sortBy) {
       result = result.sort((a, b) => {
-        if (body.month === 'overMonth') return b.overMonth - a.overMonth;
-        if (b[body.month] > a[body.month]) return 1;
-        if (b[body.month] < a[body.month]) return -1;
-        return b.overMonth - a.overMonth;
-      });
-    }
+        const compare = (aProp: string, bProp: string) => b[bProp] - a[aProp];
 
-    if (body.sortBy) {
-      result = result.sort((a, b) => {
-        return b[body.sortBy] - a[body.sortBy];
+        if (sortBy) {
+          if (sortBy === SortBy.popularOverAll) {
+            return compare('overMonth', 'overMonth');
+          }
+
+          // Assume popularLastMonth is july
+          if (sortBy === SortBy.popularLastMonth) {
+            return compare('july', 'july');
+          }
+
+          return compare(sortBy, sortBy);
+        }
+
+        return compare('overMonth', 'overMonth');
       });
     } else {
-      result = result.sort((a, b) => {
-        return b.overMonth - a.overMonth;
-      });
+      result = result.sort((a, b) => b.overMonth - a.overMonth);
     }
 
     return result || [];

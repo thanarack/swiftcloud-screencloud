@@ -1,6 +1,14 @@
 import { ApiProperty } from '@nestjs/swagger';
 import { IsEnum, IsOptional } from 'class-validator';
 
+export enum SortBy {
+  year = 'year',
+  album = 'album',
+  song = 'song',
+  popularLastMonth = 'popularLastMonth',
+  popularOverAll = 'popularOverAll',
+}
+
 export class SearchSongDto {
   @ApiProperty({
     type: String,
@@ -20,21 +28,11 @@ export class SearchSongDto {
 
   @ApiProperty({
     type: String,
-    description: 'The month of the song',
-    required: false,
-    enum: ['overMonth', 'june', 'july', 'august'],
-  })
-  @IsEnum(['overMonth', 'june', 'july', 'august'])
-  @IsOptional()
-  month?: string;
-
-  @ApiProperty({
-    type: String,
     description: 'The year of the song',
     required: false,
-    enum: ['year', 'album', 'song'],
+    enum: SortBy,
   })
-  @IsEnum(['year', 'album', 'song'])
+  @IsEnum(SortBy)
   @IsOptional()
   sortBy?: string;
 }
