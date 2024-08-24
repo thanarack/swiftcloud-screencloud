@@ -25,13 +25,15 @@ export class AppService {
       result = result.filter((item) => item.year === +year);
     }
 
+    // Logic to get last month here in real project.
+    // Assume last month is july
+    const lastMonth = 'july';
+
     result = result.sort((a, b) => {
       const compare = (aProp: string, bProp: string) => b[bProp] - a[aProp];
 
-      // Assume last month is july
       if (sortBy === SortBy.popularLastMonth) {
-        // logic to get last month here in real project.
-        return compare('july', 'july');
+        return compare(lastMonth, lastMonth);
       }
 
       return compare('overMonth', 'overMonth');
